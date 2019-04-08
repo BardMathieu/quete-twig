@@ -1,0 +1,12 @@
+{
+    "name": "math/twig",
+    "authors": [
+        {
+            "name": "math",
+            "email": "drabland@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
